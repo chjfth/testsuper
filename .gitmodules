@@ -1,0 +1,3 @@
+[submodule "hellosub"]
+	path = hellosub
+	url = https://github.com/chjfth/hello-world
